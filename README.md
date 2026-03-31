@@ -1,12 +1,19 @@
-<div align="center">
+# clcollider-playground
 
-# Clcollider Playground
+a collection of supercollider experiments using common lisp
 
-![Common Lisp](https://img.shields.io/badge/Common_Lisp-3FB68B?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
+![Common Lisp](https://img.shields.io/badge/Common Lisp-3FB68B?style=flat-square&logo=common lisp&logoColor=white)
 
-</div>
+## About
+
+📚 **Learning / Exploration** built with Common Lisp.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
 
 ---
 
-A Common Lisp learning playground with experiments and exercises.
+*Built by [@stussysenik](https://github.com/stussysenik)*
